@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LOGGIN</string>
+    <string name="facebook_app_id">553084518872543</string>
+    <string name="title_activity_loggin_facebook">LogginFacebook</string>
+</resources>
